@@ -8,8 +8,8 @@
   ],
   "repository": "https://github.com/dangerbots/testpyro",
   "success_url": "https://telegram.dog/ProjectHackfreaks",
-  "website": "https://github.com/swatv3nub",
-  "env": {
+  "website": "https://github.com/dangerbots",
+  
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
