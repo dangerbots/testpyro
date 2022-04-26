@@ -6,7 +6,7 @@
     "python",
     "pyrogram"
   ],
-  "repository": "https://github.com/swatv3nub/PyrogramBot",
+  "repository": "https://github.com/dangerbots/testpyro",
   "success_url": "https://telegram.dog/ProjectHackfreaks",
   "website": "https://github.com/swatv3nub",
   "env": {
