@@ -34,7 +34,7 @@ Simple Base for Users Who wants to make their own Telegram Bots in **[Pyrogram](
 
 - `git clone https://github.com/dangerbots/testpyro`
 - `cd PyrogramBot`
-- `pip3 install -r requirements.txt`
+- ´pip3 install -r requirements.txt`]´
 - Edit The `config.py` as per the instruction given there.
 - `python3 -m PyrogramBot`
 
