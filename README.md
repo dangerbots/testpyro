@@ -28,11 +28,11 @@ Simple Base for Users Who wants to make their own Telegram Bots in **[Pyrogram](
 
 - Heroku Deploy is Very Simple, Just Click the Button Below
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swatv3nub/PyrogramBot)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dangerbots/testpyro)
 
 ### Local Deploy
 
-- `git clone https://github.com/swatv3nub/PyrogramBot`
+- `git clone https://github.com/dangerbots/testpyro`
 - `cd PyrogramBot`
 - `pip3 install -r requirements.txt`
 - Edit The `config.py` as per the instruction given there.
